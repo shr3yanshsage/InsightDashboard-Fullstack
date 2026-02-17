@@ -1,0 +1,16 @@
+# Node
+node_modules
+dist
+.env
+
+# Spring Boot
+target
+*.log
+*.class
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+postgres_data
